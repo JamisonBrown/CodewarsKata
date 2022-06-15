@@ -1,7 +1,7 @@
 # CodewarsKata
 This repository is filled with my problem solutions from codewars.com
 
-<h2>How Its Made<h2>
+<h2>How Its Made</h2>
   <p>
     Java and JavaScript, I push at least one code wars or some other project every day.
   </p>
